@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon-like storefront sql database",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakiohma/bamazon.git"
+  },
+  "author": "Courtney Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakiohma/bamazon/issues"
+  },
+  "homepage": "https://github.com/sakiohma/bamazon#readme"
+}
