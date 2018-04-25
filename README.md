@@ -6,7 +6,7 @@ Bamazon is an CLI (command line interface) app similar to Amazon that was create
 
 
 
-<b>Technologies Used:</b>
+<b>Technologies Used:</b></br>
 MySQL</br>
 Node.js</br>
 JavaScript</br>
