@@ -10,10 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/sakiohma/bamazon.git"
   },
+  "keywords": [],
   "author": "Courtney Williams",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sakiohma/bamazon/issues"
-  },
-  "homepage": "https://github.com/sakiohma/bamazon#readme"
+  "dependencies": {
+  "console.table": "^0.8.0",
+  "inquirer": "^2.0.0",
+  "mysql": "^2.12.0"
+  }
 }
