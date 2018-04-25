@@ -7,9 +7,9 @@ require("console.table");
 var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
-  user: "root",
-  password: "",
-  database: "bamazon"
+  user: "courtneyolivia",
+  password: "ryoohki8",
+  database: "bamazon_db"
 });
 
 // Connecting to our database, running makeTable which will start the app

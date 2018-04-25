@@ -9,11 +9,11 @@ var connection = mysql.createConnection({
   port: 3306,
 
   // Your username
-  user: "root",
+  user: "courtneyolivia",
 
   // Your password
-  password: "",
-  database: "bamazon"
+  password: "ryoohki8",
+  database: "bamazon_db"
 });
 
 // Creates the connection with the server and loads the manager menu upon a successful connection

@@ -9,16 +9,11 @@ var connection = mysql.createConnection({
   port: 3306,
 
   // Your username
-  user: "root",
-<<<<<<< HEAD
+  user: "courtneyolivia",
 
   // Your password
-  password: "",
-  database: "bamazon"
-=======
-  password: "root",
+  password: "ryoohki8",
   database: "bamazon_db"
->>>>>>> 53548b59487198d39e8bc43f6d7222f1207e6fa9
 });
 
 // Creates the connection with the server and loads the product data upon a successful connection

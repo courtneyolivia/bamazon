@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-   "dependencies": {
+  "dependencies": {
     "mysql": "*",
     "inquirer": "*"
   },
@@ -18,4 +18,3 @@
   "author": "Courtney Williams",
   "license": "ISC"
 }
-
