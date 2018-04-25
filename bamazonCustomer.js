@@ -10,10 +10,15 @@ var connection = mysql.createConnection({
 
   // Your username
   user: "root",
+<<<<<<< HEAD
 
   // Your password
   password: "",
   database: "bamazon"
+=======
+  password: "root",
+  database: "bamazon_db"
+>>>>>>> 53548b59487198d39e8bc43f6d7222f1207e6fa9
 });
 
 // Creates the connection with the server and loads the product data upon a successful connection

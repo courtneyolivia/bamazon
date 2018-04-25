@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+   "dependencies": {
+    "mysql": "*",
+    "inquirer": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sakiohma/bamazon.git"
@@ -13,9 +17,5 @@
   "keywords": [],
   "author": "Courtney Williams",
   "license": "ISC",
-  "dependencies": {
-  "console.table": "^0.8.0",
-  "inquirer": "^2.0.0",
-  "mysql": "^2.12.0"
   }
 }
